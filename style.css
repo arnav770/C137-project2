@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start,
+#numberOfObjects {
+    font-size: 18px;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px rosybrown;
+}
+
+.footer {
+    color: aquamarine;
+    position: fixed;
+    background-color: coral;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+}
